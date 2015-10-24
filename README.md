@@ -7,8 +7,8 @@ horizontal lines.The chessmans are put on the crosses and moved along the lines.
 horizontally,vertically,or diagonally.And black plays first!
 
 # Fuctions:
-Basic games with the rules
-Change the background's color
+</br>Basic games with the rules</br>
+</br>Change the background's color</br>
 Setting game's time
 Play again
 Two players battle mode
