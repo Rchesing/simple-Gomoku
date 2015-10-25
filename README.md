@@ -7,7 +7,7 @@ The chessmans are put on the crosses and moved along the lines.The winner is the
 </br>And black plays first!
 
 # Fuctions:
-</br>Basic games with the rules
+Basic games with the rules
 </br>Change the background's color
 </br>Setting game's time
 </br>Play again
