@@ -1,3 +1,5 @@
 language: java
-jdk:
-  - 1.7.0_60
+  jdk:
+    - openjdk7
+    - oraclejdk7
+  
